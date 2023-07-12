@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<sdf version="1.4">
+<model name="o_kniha">
+  <static>true</static>
+    <link name="link">
+      <visual name="visual">
+        <cast_shadows>false</cast_shadows>
+        <geometry>
+          <mesh>
+            <uri>model://o_kniha/meshes/o_kniha.dae</uri>
+          </mesh>
+        </geometry>
+        <material>
+          <script>
+			<uri>model://o_kniha/materials/scripts</uri>
+			<uri>model://o_kniha/materials/textures</uri>
+            <name>o_kniha/Image</name>
+          </script>
+        </material>
+      </visual>
+    </link>
+  </model>
+</sdf>
