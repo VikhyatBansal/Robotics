@@ -4,7 +4,6 @@
 <h2 align="center">SEMESTER-4 [TERM PROJECT]</h2>
 <br>
 <h1 align="center">Hi 👋,This side Team 1 of Batch A</h1>
-<h2 align="center">From Batch-A Group-1</h2>
 <h3 align="center">Students at Amrita Vishwa Vidyapeetham, Coimbatore🌟.</h3>
 <br>
 <h4 align="center">Our Project is performed by the utilization of ROS2 [ver:Humble Hawksbill] and Gazebo, primarily. Other than that, we have utilized OpenCV, cv_bridge, Pyzbar and RVIZ2 for our Project Work.</h4>
